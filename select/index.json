@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "HOWL",
+  "base_artist": "Ayumu Imazu",
+  "createdAt": "2025-12-02T10:58:46.298314Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Howl",
+      "artist": "Rolo Tomassi",
+      "has_synced": true,
+      "path": "select/01_Howl_Rolo_Tomassi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Howl",
+      "artist": "Black Rebel Motorcycle Club",
+      "has_synced": true,
+      "path": "select/02_Howl_Black_Rebel_Motorcycle_Club.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Howl at the Summit",
+      "artist": "The Breeders",
+      "has_synced": true,
+      "path": "select/03_Howl_at_the_Summit_The_Breeders.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Howl",
+      "artist": "Florence + The Machine",
+      "has_synced": true,
+      "path": "select/04_Howl_Florence_+_The_Machine.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Howl",
+      "artist": "The Grates",
+      "has_synced": false,
+      "path": "select/05_Howl_The_Grates.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Howl Ravens Come",
+      "artist": "Einherjer",
+      "has_synced": false,
+      "path": "select/06_Howl_Ravens_Come_Einherjer.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Howl",
+      "artist": "Junip",
+      "has_synced": true,
+      "path": "select/07_Howl_Junip.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Let The Wolves Howl At The Moon",
+      "artist": "Super Furry Animals",
+      "has_synced": true,
+      "path": "select/08_Let_The_Wolves_Howl_At_The_Moon_Super_Furry_Animals.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Howl",
+      "artist": "Iggy Pop",
+      "has_synced": true,
+      "path": "select/09_Howl_Iggy_Pop.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Howl",
+      "artist": "Blood Red Shoes",
+      "has_synced": true,
+      "path": "select/10_Howl_Blood_Red_Shoes.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Howl At The Moon - Radio Edit",
+      "artist": "Stadiumx & Taylr Renee",
+      "has_synced": true,
+      "path": "select/11_Howl_At_The_Moon_-_Radio_Edit_Stadiumx_&_Taylr_Renee.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Howl At The Moon - Radio Edit",
+      "artist": "Stadiumx/Taylr Renee",
+      "has_synced": true,
+      "path": "select/12_Howl_At_The_Moon_-_Radio_Edit_Stadiumx_Taylr_Renee.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Howl at the Moon",
+      "artist": "Stadiumx & Taylr Renee",
+      "has_synced": true,
+      "path": "select/13_Howl_at_the_Moon_Stadiumx_&_Taylr_Renee.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "HOWL",
+      "artist": "Ayumu Imazu",
+      "has_synced": false,
+      "path": "select/pl_01_HOWL_Ayumu_Imazu.txt"
+    }
+  ]
+}
